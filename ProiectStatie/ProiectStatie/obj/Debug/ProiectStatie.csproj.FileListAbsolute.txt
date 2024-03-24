@@ -1,0 +1,10 @@
+D:\Cursuri Info\Cursuri an III\Modelare si simulare\Proiect\ProiectStatie\ProiectStatie\bin\Debug\ProiectStatie.exe.config
+D:\Cursuri Info\Cursuri an III\Modelare si simulare\Proiect\ProiectStatie\ProiectStatie\bin\Debug\ProiectStatie.exe
+D:\Cursuri Info\Cursuri an III\Modelare si simulare\Proiect\ProiectStatie\ProiectStatie\bin\Debug\ProiectStatie.pdb
+D:\Cursuri Info\Cursuri an III\Modelare si simulare\Proiect\ProiectStatie\ProiectStatie\obj\Debug\ProiectStatie.csproj.AssemblyReference.cache
+D:\Cursuri Info\Cursuri an III\Modelare si simulare\Proiect\ProiectStatie\ProiectStatie\obj\Debug\ProiectStatie.Form1.resources
+D:\Cursuri Info\Cursuri an III\Modelare si simulare\Proiect\ProiectStatie\ProiectStatie\obj\Debug\ProiectStatie.Properties.Resources.resources
+D:\Cursuri Info\Cursuri an III\Modelare si simulare\Proiect\ProiectStatie\ProiectStatie\obj\Debug\ProiectStatie.csproj.GenerateResource.cache
+D:\Cursuri Info\Cursuri an III\Modelare si simulare\Proiect\ProiectStatie\ProiectStatie\obj\Debug\ProiectStatie.csproj.CoreCompileInputs.cache
+D:\Cursuri Info\Cursuri an III\Modelare si simulare\Proiect\ProiectStatie\ProiectStatie\obj\Debug\ProiectStatie.exe
+D:\Cursuri Info\Cursuri an III\Modelare si simulare\Proiect\ProiectStatie\ProiectStatie\obj\Debug\ProiectStatie.pdb
